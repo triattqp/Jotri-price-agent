@@ -1,0 +1,1 @@
+With a free Terminal 3 account, the payment signing moves into an Intel TDX enclave, and the same mandate becomes a sealed vault contract. Same trust, with real secrets, sealed. Amani Price Agent: trust-native, on T3 Network.

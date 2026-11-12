@@ -1,0 +1,1 @@
+Here is the demo, running against the real Jotri Price API. First, the owner, Joko, issues a signed mandate: the agent may only call GET price, at most one tenth of a cent per call, ten cents a day, valid for twenty-four hours. The agent verifies the owner's signature, the scope, and the expiry, before it does anything at all. Signature valid. Mandate in force.

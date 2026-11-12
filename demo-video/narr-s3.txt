@@ -1,0 +1,1 @@
+Then the agent asks the real API for the Bitcoin price. The API answers: 402, Payment Required. One tenth of a cent in USDC, on Base. The agent checks the mandate before paying: the route is in scope, the amount is within the per-call cap, and the daily cap is untouched. The call is allowed. This demo stops here by design. No payment is sent, and no key is ever touched.

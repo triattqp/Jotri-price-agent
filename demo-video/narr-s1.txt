@@ -1,0 +1,1 @@
+Today, an AI agent that pays for data has to hold the payer's wallet key and API keys in the clear. One leak, one prompt injection, and the money is gone. That is the problem Terminal 3 asks us to fix. Amani Price Agent fixes it with three things: its own identity, a scoped mandate from its owner, and a tamper-evident audit trail. The agent never holds a key.
